@@ -1,2 +1,19 @@
-my family is great 
-i love my family
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        div{
+            display: flex;
+            flex-direction: row;
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+  
+</head>
+<body>
+    <div>
+        <div></div>
+    </div>    
+</body>
+</html>
